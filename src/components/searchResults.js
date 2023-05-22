@@ -12,7 +12,7 @@ export const SearchResults = ({ results, deleteTrack }) => {
         // käydään läpi hakutulokset
         <div className="results">
         <Container className="search-results">
-            <Row xs={1} md={2} lg={3} xl={3} xxl={4} className="g-4">{results.map((result, id) => {      
+            <Row className="g-4">{results.map((result, id) => {      
                 // kutsutaan komponenttia "yksi hakutulos"
                 return <Col>
                             <OneSearchResult 
