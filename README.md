@@ -8,3 +8,7 @@ Tässä sovelluksessa voi hakea Lana Del Reyn biisejä nimen perusteella, sekä 
 Esittelyvideo:
 
 Render: https://lanafront.onrender.com/
+
+Backend eli projekti 2:
+
+https://github.com/Oonuliina/fullstack-project2
