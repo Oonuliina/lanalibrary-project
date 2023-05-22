@@ -5,9 +5,9 @@
     background-color: #2A2A2A;
     padding: 5px 20px 15px 20px;
     border-radius: 15px;
-    font-family: sans-serif;
+    font-family:'Open Sans', sans-serif;
     font-size: 16px;
-    font-weight: 600;
+    font-weight: bold;
     color: #FFFFFF;
     max-width: 240px;
     transition-duration: 0.3s;
