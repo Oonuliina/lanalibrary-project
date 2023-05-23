@@ -1,6 +1,6 @@
 import React from 'react';
 import { useState } from 'react';
-import { SearchBar } from './components/SearchBar';
+import { SearchBar } from './components/searchBar';
 import { AllSearchResults } from './components/AllSearchResults';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
