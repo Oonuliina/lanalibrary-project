@@ -43,7 +43,7 @@ export const SearchBar = ({ setResults }) => {
             <Col className="search" xs md="5">
                 <FaSearch id="search-icon"/>
                 <input 
-                    placeholder="Enter album or title..." 
+                    placeholder="Enter title..." 
                     className="inputfield"
                     id="inputfield"
                     value={input} 
