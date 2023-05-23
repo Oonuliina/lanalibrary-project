@@ -5,7 +5,7 @@ FrontEnd React JS kirjastoa käyttäen.
 Tässä sovelluksessa voi hakea Lana Del Reyn biisejä nimen perusteella, sekä poistaa niitä tietokannasta.
 
 
-Esittelyvideo:
+Esittelyvideo: https://youtu.be/4OyouSUYD4o
 
 Render: https://lanafront.onrender.com/
 
