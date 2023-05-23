@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 import {FaSearch} from "react-icons/fa";
-import "./styles/SearchBar.css";
+import "./styles/searchBar.css";
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
