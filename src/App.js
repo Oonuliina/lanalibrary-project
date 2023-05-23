@@ -1,7 +1,7 @@
 import React from 'react';
 import { useState } from 'react';
-import { SearchBar } from './components/searchBar';
-import { SearchResults } from './components/searchResults';
+import { SearchBar } from './components/SearchBar';
+import { AllSearchResults } from './components/AllSearchResults';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
@@ -36,7 +36,7 @@ function App() {
     </div>
     <section className='search-section'>
         <SearchBar setResults={setResults} />
-        <SearchResults results={results} deleteTrack={DeleteTrack}/>
+        <AllSearchResults results={results} deleteTrack={DeleteTrack}/>
     </section>
 </Container>      
   );
