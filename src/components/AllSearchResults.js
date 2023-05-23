@@ -1,5 +1,5 @@
 import React from "react";
-import "./styles/AllSearchResults.css"
+import "./styles/allSearchResults.css"
 import "./OneSeachResult"
 import { OneSearchResult } from "./OneSeachResult";
 import Container from 'react-bootstrap/Container';
