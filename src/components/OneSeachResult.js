@@ -1,6 +1,6 @@
 import React from "react";
 import "./styles/OneSearchResult.css"
-import { CheckImage } from "./CheckImage";
+import { CheckImage } from "./checkImage";
 
 export const OneSearchResult = ({ result, id, deleteTrack }) => {
     return (
